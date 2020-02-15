@@ -1,0 +1,69 @@
+
+.number-warning {
+  color: black;
+  background-color: greenyellow;
+  margin: 5px;
+  padding: 2px;
+  border-radius: 5px;
+  font-style: normal;
+}
+
+.number-primary {
+  color: black;
+  background-color:rgb(85, 127, 218);
+  margin: 5px;
+  padding: 2px;
+  border-radius: 5px;
+  font-style: normal;
+}
+
+.reset {
+  margin: 5px;
+  color:white;
+  border-radius: 5px;
+  background-color: rgb(85, 127, 218);
+  padding: 2px;
+  font-style: normal;
+  border: none;
+  outline: none !important;
+}
+
+.increment {
+  margin: 5px;
+  color:white;
+  border-radius: 5px;
+  background-color: rgb(119, 109, 109);
+  padding: 2px;
+  font-style: normal;
+  border: none;
+  outline: none !important;
+}
+
+
+.delete {
+  margin: 5px;
+  color:white;
+  border-radius: 5px;
+  background-color: red;
+  padding: 2px;
+  font-style: normal;
+  border: none;
+  outline: none !important;
+}
+
+.navBar {
+
+}
+
+#root {
+  background-color: yellow;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: tomato;
+}
